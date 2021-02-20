@@ -5,7 +5,7 @@
   
 
 ### <div align="center">Hi there 👋, My name is Mohamed
-I am a Full-Stack Software Engineer based in Twin Cities, MN. I am currently an apprentice at The Software Guild, and I am seeking employment in the Software/Web Development field.
+I am a Full-Stack Software Engineer based in Twin Cities, MN. I am currently an apprentice at TekSystems, and I am seeking employment in the Software/Web Development field.
  
 Willing to excel by taking opportunities presented and meet crucial deadlines. Hungry self- starter motivated to learn more. To want to learn is to grow and develop a proficient attribution to our-self as well as society. Always consuming information to educate myself in understanding how I can make a contribution.</div>  
   
