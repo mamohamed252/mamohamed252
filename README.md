@@ -49,11 +49,13 @@ Willing to excel by taking opportunities presented and meet crucial deadlines. H
 </td><td valign="top" width="33%">
 
 
-</td></tr></table>  
+</td></tr></table><br/>  
 
-<br/>  
+## Github Stats  
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamohamed252&show_icons=true&locale=en" align="center" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamohamed252" align="center" width="40%"/>
+</div>
 ## Connect with me  
 
 
@@ -64,12 +66,4 @@ Willing to excel by taking opportunities presented and meet crucial deadlines. H
 </a>
 <a href="https://linkedin.com/in/mohamed-mohamed252/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
-</div>  
-<br/>  
-
-
-## Github Stats  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamohamed252&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamohamed252" align="center" width="40%"/>
-</div>
+</div><br/> 
