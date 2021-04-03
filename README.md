@@ -55,8 +55,8 @@ Willing to excel by taking opportunities presented and meet crucial deadlines. H
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamohamed252&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamohamed252" align="center" width="40%"/>
-</div>
-## Connect with me  
+</div><br>
+### Connect with me  
 
 
 ### Let's Connect!  
