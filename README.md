@@ -1,7 +1,10 @@
 ![](https://i.imgur.com/dfqy5TJ.png)  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div> 
+</style>
+h1 {text-align: center;}
+</style>
   
 
 ### <div align="center">Hi there 👋, My name is Mohamed Mohamed
@@ -52,7 +55,7 @@ Willing to excel by taking opportunities presented and meet crucial deadlines. H
 </td></tr></table><br/>  
 
 ## Github Stats  
-<div>Check out my recent activity!</div>
+<div><h1>Test</h1></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamohamed252&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamohamed252" align="center" width="40%"/>
 </div><br>
