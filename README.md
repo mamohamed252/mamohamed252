@@ -52,7 +52,7 @@ Willing to excel by taking opportunities presented and meet crucial deadlines. H
 </td></tr></table><br/>  
 
 ## Github Stats  
-
+<div>Check out my recent activity!</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamohamed252&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamohamed252" align="center" width="40%"/>
 </div><br>
