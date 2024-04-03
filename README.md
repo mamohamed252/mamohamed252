@@ -1,12 +1,11 @@
-![](https://i.imgur.com/dfqy5TJ.png)  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
   
 
-### <div align="center">Hi there 👋, My name is Mohamed Mohamed
-I am a Full-Stack Java Engineer based in Twin Cities, MN. I am currently an apprentice at TekSystems, and I am seeking employment in the Software/Web Development field.
+### <div align="center">Hi there 👋, My name is Mohamed
+I am a Full-Stack Java Engineer working in health-tech and dabbling in cloud engineering/devops.
  
 Willing to excel by taking opportunities presented and meet crucial deadlines. Hungry self- starter motivated to learn more. To want to learn is to grow and develop a proficient attribution to our-self as well as society. Always consuming information to educate myself in understanding how I can make a contribution.</div>  
   
